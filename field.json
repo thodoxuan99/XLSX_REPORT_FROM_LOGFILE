@@ -1,0 +1,13 @@
+{
+    "field":[
+        "STT",
+        "TIME",
+        "IMAGE",
+        "START TIME",
+        "TIME TO CAPTURE",
+        "PRODUCE TIME",
+        "RECOG TIME",
+        "CONSUME TIME",
+        "TIME TO OPEN"
+    ]
+}

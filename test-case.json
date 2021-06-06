@@ -1,0 +1,9 @@
+{
+    "image":{
+        "Non-human":"non-human.png",
+        "Human-not-recog":"human_not_recog.png",
+        "Human-recog":"human_recog.png"
+    },
+    "time":[5,7,10,30,60],
+    "num_of_test":3
+}
