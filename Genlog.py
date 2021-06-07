@@ -41,5 +41,5 @@ class Genlog:
             return False
 
 
-a= Genlog("logfile.log", "field.json","result.xls","Door Log")
+a= Genlog("logfile.log", "field.json","result2.xls","Door Log")
 a.run()

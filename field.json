@@ -4,10 +4,12 @@
         "TIME",
         "IMAGE",
         "START TIME",
-        "TIME TO CAPTURE",
+        "AUTH TIME",
+        "AUTH TO CAPTURE",
         "PRODUCE TIME",
         "RECOG TIME",
         "CONSUME TIME",
-        "TIME TO OPEN"
+        "TIME TO OPEN",
+        "TOTAL TIME"
     ]
 }

@@ -1,9 +1,10 @@
 {
     "image":{
-        "Non-human":"non-human.png",
-        "Human-not-recog":"human_not_recog.png",
-        "Human-recog":"human_recog.png"
+        "Human-recog":"human_recog.jpg",
+        "Human-not-recog":"human_not_recog.jpg",
+        "Non-human":"non_human.jpg"
+
     },
-    "time":[5,7,10,30,60],
-    "num_of_test":3
+    "time":[5,7,10,30],
+    "num_of_test":2
 }
