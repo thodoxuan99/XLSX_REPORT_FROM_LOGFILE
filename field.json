@@ -3,13 +3,13 @@
         "STT",
         "TIME",
         "IMAGE",
-        "START TIME",
-        "AUTH TIME",
-        "AUTH TO CAPTURE",
-        "PRODUCE TIME",
-        "RECOG TIME",
-        "CONSUME TIME",
-        "TIME TO OPEN",
-        "TOTAL TIME"
+        "STARTTIME",
+        "AUTHTIME",
+        "AUTHTOCAPTURE",
+        "PRODUCETIME",
+        "RECOGTIME",
+        "CONSUMETIME",
+        "TIMETOOPEN",
+        "TOTALTIME"
     ]
 }
